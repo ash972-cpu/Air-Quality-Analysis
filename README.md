@@ -1,57 +1,123 @@
-# Air-Quality-Analysis
-Air Quality Analysis of Lucknow (2026) using CPCB data collected from all 6 monitoring stations at 10-day intervals. 
-The project focuses on AQI trends, data cleaning, analysis, and visualization using Python and Data Analytics techniques.
+# 🌍 Air Quality Analysis – Lucknow (2026)
 
-# Dataset
+## 📖 Overview
 
-The dataset contains:
+This project analyzes the Air Quality Index (AQI) of Lucknow for the year 2026 using CPCB (Central Pollution Control Board) data collected from all six monitoring stations at 10-day intervals.
 
-Date
-City
-AQI
-AQI Category
-Prominent Pollutant
-Recorded Stations
-and Data summarized.
+The project focuses on data collection, cleaning, analysis, visualization, and dashboard development to derive meaningful environmental insights and support data-driven decision-making.
 
-# Air Quality Monitoring Dashboard 
+---
 
-On the basis of above data made an interactive Power BI dashboard for analyzing Air Quality Index (AQI) data of Lucknow till may 2026. The dashboard transforms raw environmental data into meaningful visual insights to support data-driven decision-making.
+## 📊 Dataset
 
-Dashboard Features :
-Key Performance Indicators (KPIs)
-Average AQI
-Maximum AQI
-Total Readings
-Visualizations
-AQI Trend Analysis (Line Chart)
-Tracks AQI variations over time.
-Identifies periods of high and low pollution.
-Pollutant Analysis (Bar Chart)
-Highlights the most frequently observed pollutants.
-Helps identify major contributors to air quality degradation.
-AQI Category Distribution (Donut Chart)
-Shows the proportion of AQI categories such as Good, Satisfactory, Moderate, Poor, and Very Poor.
-Interactive Filters
-Date Filter
-AQI Category Filter
-Prominent Pollutant Filter
+The dataset contains the following attributes:
 
-Insights:
-AQI levels fluctuate significantly across the year.
-Certain pollutants appear more frequently and contribute heavily to air quality concerns.
-Moderate and Satisfactory AQI categories account for a large share of observations.
+| Column              | Description                                     |
+| ------------------- | ----------------------------------------------- |
+| Date                | Date of observation                             |
+| City                | City name (Lucknow)                             |
+| AQI                 | Air Quality Index value                         |
+| AQI Category        | Air quality classification                      |
+| Prominent Pollutant | Dominant pollutant recorded                     |
+| Recorded Stations   | Number of monitoring stations contributing data |
 
-Tools Used:
-Power BI Desktop
-Microsoft Excel
-Data Visualization Techniques
-Project Outcome
+The dataset was further summarized and prepared for visualization and analysis.
 
-The dashboard provides an intuitive and interactive way to monitor air quality trends, understand pollutant patterns, and communicate environmental insights effectively.
+---
 
-Future Enhancements
-Multi-city comparison
-Forecasting AQI trends
-Real-time data integration
-Geospatial pollution mapping
+# 📈 Air Quality Monitoring Dashboard
+
+An interactive Power BI dashboard was developed using the processed AQI dataset to visualize air quality trends in Lucknow up to May 2026.
+
+The dashboard transforms raw environmental data into actionable insights through interactive visualizations and performance indicators.
+
+---
+
+## ✨ Dashboard Features
+
+### 📌 Key Performance Indicators (KPIs)
+
+* Average AQI
+* Maximum AQI
+* Total Readings
+
+---
+
+### 📊 Visualizations
+
+#### 1. AQI Trend Analysis (Line Chart)
+
+* Tracks AQI variations over time
+* Identifies periods of improving and deteriorating air quality
+* Highlights pollution fluctuations throughout the year
+
+#### 2. Pollutant Analysis (Bar Chart)
+
+* Displays the most frequently observed pollutants
+* Identifies major contributors to air quality degradation
+
+#### 3. AQI Category Distribution (Donut Chart)
+
+* Shows the distribution of AQI categories:
+
+  * Good
+  * Satisfactory
+  * Moderate
+  * Poor
+  * Very Poor
+
+---
+
+### 🎛 Interactive Filters
+
+The dashboard includes slicers for:
+
+* Date
+* AQI Category
+* Prominent Pollutant
+
+These filters allow users to explore the dataset dynamically and gain deeper insights.
+
+---
+
+## 🔍 Key Insights
+
+* AQI levels fluctuate significantly throughout the observed period.
+* Certain pollutants appear more frequently and contribute heavily to poor air quality conditions.
+* Moderate and Satisfactory AQI categories account for a large proportion of observations.
+* Air quality trends indicate the need for continuous monitoring and pollution control measures.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* Microsoft Excel
+* Power BI Desktop
+* Data Visualization Techniques
+* Data Cleaning & Analysis
+
+---
+
+## 🎯 Project Outcome
+
+The dashboard provides an intuitive and interactive platform for monitoring air quality trends, understanding pollutant patterns, and communicating environmental insights effectively.
+
+It demonstrates the application of data analytics and visualization techniques in solving real-world environmental challenges.
+
+---
+
+## 🚀 Future Enhancements
+
+* Multi-city AQI comparison
+* AQI forecasting and prediction
+* Real-time data integration
+* Geographic pollution mapping
+* Advanced environmental analytics
+
+---
+
+## 👨‍💻 Author
+
+**Ashish Kumar Mishra**
+
+Data Analytics & Visualization Project | 2026
