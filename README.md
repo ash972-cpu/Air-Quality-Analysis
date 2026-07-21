@@ -56,10 +56,10 @@ The analysis focuses on:
 Lucknow-Air-Quality-Analysis/
 │
 ├── Data/
-│   └── Lucknow_AQI_Data.xlsx
+│   └── AshishKumarMishra_CleanedDataset.xlsx
 │
 ├── Dashboard/
-│   └── Lucknow_AQI_Dashboard.pbix
+│   └── Air Quality Dashboard.pbip
 │
 ├── Streamlit_App/
 │   ├── app.py
@@ -67,8 +67,9 @@ Lucknow-Air-Quality-Analysis/
 │   └── assets/
 │
 ├── Images/
-│   ├── dashboard.png
-│   └── streamlit.png
+│   ├── powerbi dashboard.png
+│   └── streamlit ss1.png
+│   └── streamlit ss2.png   
 │
 ├── README.md
 └── LICENSE
@@ -107,17 +108,15 @@ Lucknow-Air-Quality-Analysis/
 ### Power BI Dashboard
 
 ```
-<img width="1315" height="742" alt="image" src="https://github.com/user-attachments/assets/2d46530a-3ea9-4be6-962f-4da9abaabb60" />
+![App Screenshot](powerbi dashboard.png)
 
 ```
 
 ### Streamlit Application
 
 ```
-<img width="1907" height="920" alt="Screenshot 2026-07-21 144235" src="https://github.com/user-attachments/assets/04a5b7e3-3b89-4fc0-ada6-c01dc4c14ca9" />
-
-<img width="1917" height="915" alt="Screenshot 2026-07-21 144330" src="https://github.com/user-attachments/assets/8cb10cba-4dab-4cdf-8e16-7639174a1624" />
-
+![App Screenshot](Streamlit ss1.png)
+![App Screenshot](streamlit ss1.png)
 ```
 
 https://ash972-cpu-air-quality-analysis-app-4dqo9b.streamlit.app/
