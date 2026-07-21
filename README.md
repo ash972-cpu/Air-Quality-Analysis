@@ -105,15 +105,15 @@ Lucknow-Air-Quality-Analysis/
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](powerbi dashboard.png)
 
 ## 🌐 Streamlit App
 
 ### Home Page
-![Home Page](images/streamlit_ss1.png)
+![Streamlit App Screenshot 1](streamlit ss1.png)
 
 ### Analysis Page
-![Analysis Page](images/streamlit_ss2.png)
+![Streamlit App Screenshot 2](streamlit ss2.png)
 
 ### Streamlit Application
 
