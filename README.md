@@ -103,24 +103,23 @@ Lucknow-Air-Quality-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Power BI Dashboard
 
-### Power BI Dashboard
+![Power BI Dashboard](images/powerbi_dashboard.png)
 
-```
-![App Screenshot](powerbi dashboard.png)
+## 🌐 Streamlit App
 
-```
+### Home Page
+![Home Page](images/streamlit_ss1.png)
+
+### Analysis Page
+![Analysis Page](images/streamlit_ss2.png)
 
 ### Streamlit Application
 
-```
-![App Screenshot](Streamlit ss1.png)
-![App Screenshot](streamlit ss1.png)
-```
 
 https://ash972-cpu-air-quality-analysis-app-4dqo9b.streamlit.app/
-```
+
 
 ---
 
